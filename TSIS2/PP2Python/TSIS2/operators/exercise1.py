@@ -1,0 +1,1 @@
+print(10*5) #Multiplying 10 and 5
